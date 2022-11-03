@@ -1,3 +1,3 @@
-module set55/greetings
+module github.com/set55/greetings
 
 go 1.19
